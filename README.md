@@ -1,2 +1,3 @@
 # repo-exercise
-Just made for exercise
+
+Be careful and persistent.
